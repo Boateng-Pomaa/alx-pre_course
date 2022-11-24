@@ -1,7 +1,11 @@
 !#bin/bash
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX is so cool
 =======
 echo "ALX is so cool
 >>>>>>> update_script
+=======
+echo "ALX is so cool!
+>>>>>>> 20e64ac6b33947a005abde635e3b97b3fb8cd861
